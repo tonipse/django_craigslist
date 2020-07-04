@@ -1,0 +1,19 @@
+.card .card-image img {
+    display: block;
+    border-radius: 2px 2px 0 0;
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    object-fit: cover;
+    height: 300px;
+}
+
+.card {
+    height: 500px; /* Your height here */
+    overflow: hidden;
+}
+
+
