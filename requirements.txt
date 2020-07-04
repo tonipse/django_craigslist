@@ -19,8 +19,6 @@ psycopg2==2.8.5
 pycodestyle==2.6.0
 pylint==2.5.3
 pytz==2020.1
-query-string==0.0.0
-request==0.0.0
 requests==2.24.0
 six==1.15.0
 soupsieve==2.0.1
