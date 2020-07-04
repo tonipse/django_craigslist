@@ -26,7 +26,7 @@ SECRET_KEY = 'vdztelcrys9j_@bjah70*$efe%2ijx&#tg63n2)us6v@p7b#og'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tonislist.herokuapp.com', '127.0.0.1']
 
 # Application definition
 
